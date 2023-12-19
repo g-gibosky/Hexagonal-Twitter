@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "802c2f75-0987-4b70-93bf-9e69e2d6fa0c",
+    "colName": "Hexagonal",
+    "created": "2023-12-18T03:14:47.512Z",
+    "sortNum": 10000,
+    "folders": [],
+    "settings": {
+      "options": {
+        "baseUrl": "{{host}}:{{back_end_port}}"
+      },
+      "envId": "3b289e89-0939-4086-b2a7-03cb16eca3f2"
+    }
+  }
+]
